@@ -1,7 +1,7 @@
 # Steve Verhelle (enqack)
 Enquiry acknowledged! Event-Driven tinkerer; music enjoyer; systems whisperer.  
 
-Why “enqack”?
+Why “enqack [^1]”?
 
 **ENQ** (*Enquiry*, `^E`, `0x05`) asks “Who are you?” or in the case of learning "What are you?"
 
@@ -11,26 +11,27 @@ Historically used in teleprinters and terminals.
 
 ---
 
-Expertise [^1]:
+Expertise [^2]:
 * Musician
 * Software Engineer
 * Systems Engineer
 
-LoC (Languages of concern) [^1]:
+LoC (Languages of concern) [^2]:
 * C/C++
 * Go
 * Nix
 * Protocol Buffers (Protobuf)
 * Python
   
-Technologies [^1]:
+Technologies [^2]:
 * Cryptography
 * DevOps
 * Distributed systems
-* GNU/Systemd/Linux [^2]
+* GNU/Systemd/Linux [^3]
 * Networking
 * Virtualization
 * Web Development
 
-[^1]: The order does not signify level of expertise.
-[^2]: For distribution that use Systemd I would argue it's an appropriate moniker to expand upon the often used GNU/Linux moniker.
+[^1]: Pronounced En-Ack. The q being silent given there is no u afterwards.
+[^2]: The order does not signify level of expertise.
+[^3]: For distribution that use Systemd I would argue it's an appropriate moniker to expand upon the often used GNU/Linux moniker.
