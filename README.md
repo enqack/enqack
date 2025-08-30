@@ -7,6 +7,8 @@ Why “enqack”?
 
 **ACK** (*Acknowledge*, `^F`, `0x06`) replies “Heard you.” or in the case of learning "Lets get started."
 
+Historically used in teleprinters and terminals.
+
 ---
 
 Expertise [^1]:
