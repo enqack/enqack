@@ -23,7 +23,5 @@ Technologies [^1]:
 * Virtualization
 * Web Development
 
----
-
 [^1]: The order does not signify level of expertise.
 [^2]: For distribution that use Systemd I would argue it's an appropriate moniker to expand upon the often used GNU/Linux moniker.
