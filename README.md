@@ -1,4 +1,11 @@
-Event-Driven tinkerer; music enjoyer; systems whisperer.  
+# Steve Verhelle (enqack)
+Enquiry acknowledged! Event-Driven tinkerer; music enjoyer; systems whisperer.  
+
+Why “enqack”?
+
+**ENQ** (*Enquiry*, `^E`, `0x05`) asks “Who are you?” or in the case of learning "What are you?"
+
+**ACK** (*Acknowledge*, `^F`, `0x06`) replies “Heard you.” or in the case of learning "Lets get started."
 
 ---
 
