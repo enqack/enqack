@@ -1,4 +1,4 @@
-# Steve Verhelle (enqack)
+# Steve Verhelle (enqack) <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=enqack.enqack&left_color=royalblue&right_color=black"  />
 Enquiry acknowledged! Event-Driven tinkerer; music enjoyer; systems whisperer.  
 
 Why “enqack [^1]”?
@@ -31,6 +31,16 @@ Technologies [^2]:
 * Networking
 * Virtualization
 * Web Development
+
+---
+
+<div style="display: flex; justify-content: space-between; align-items: flex-start; margin-top: 20px;">
+    <!-- Left Column: Metrics -->
+    <div style="flex: 1; max-width: 100%;">
+        <img alt="if you see this, it means my metrics are not working" src="https://github.com/enqack/enqack/blob/main/github-metrics.svg">
+    </div>
+</div>
+
 
 [^1]: Pronounced En-Ack. The q being silent given there is no u afterwards.
 [^2]: The order does not signify level of expertise.
