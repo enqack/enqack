@@ -8,37 +8,3 @@ Why “enqack [^1]”?
 **ACK** (*Acknowledge*, `^F`, `0x06`) replies “Heard you.” or in the case of learning "Lets get started."
 
 Historically used in teleprinters and terminals.
-
----
-
-Expertise [^2]:
-* Musician
-* Software Engineer
-* Systems Engineer
-
-LoC (Languages of concern) [^2]:
-* C/C++
-* Go
-* Nix
-* Protocol Buffers (Protobuf)
-* Python
-  
-Technologies [^2]:
-* Cryptography
-* DevOps
-* Distributed systems
-* GNU/Systemd/Linux [^3]
-* Networking
-* Virtualization
-* Web Development
-
----
-
-<div style="flex: 1; max-width: 100%;">
-    <img alt="if you see this, it means my metrics are not working" src="https://github.com/enqack/enqack/blob/main/github-metrics.svg">
-    <img alt="if you see this, it means my metrics are not working" src="https://github.com/enqack/enqack/blob/main/metrics.plugin.habits.chargs.svg">
-</div>
-
-[^1]: Pronounced En-Ack. The q being silent given there is no u afterwards.
-[^2]: The order does not signify level of expertise.
-[^3]: For distribution that use Systemd I would argue it's an appropriate moniker to expand upon the often used GNU/Linux moniker.
